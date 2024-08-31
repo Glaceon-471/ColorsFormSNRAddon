@@ -1,2 +1,2 @@
-# ColorsFormSNRAddon
-Add-on that adds the colours of Super New Roles, also an Among Us mod, to Nebula on the Ship, an Among Us mod.
+# Colors Form SNR Addon
+Among UsのMOD[Nebula on the Ship](https://github.com/Dolly1016/Nebula)に[Super New Roles](https://github.com/SuperNewRoles/SuperNewRoles)のカスタムカラーを追加するアドオンです。
